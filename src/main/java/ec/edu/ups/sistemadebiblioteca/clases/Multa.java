@@ -9,7 +9,7 @@ package ec.edu.ups.sistemadebiblioteca.clases;
  * @author USER
  */
 public class Multa {
-    
+    //
     private double multa;
     private String motivo;
     
